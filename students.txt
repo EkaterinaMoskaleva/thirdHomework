@@ -1,0 +1,11 @@
+12,Ryshova,Karina,19
+13,Petrov,Oleg,32
+14,Stasov,Petr,20
+15,Moskaleva,Katy,24
+16,Babul,Igor,28
+17,Cvetkova,Olya,26
+18,Sved,Tom,15
+19,Oxxxy,Myrom,23
+20,Shevnova,Svetlana,35
+21,Ovdeev,Victor,25
+1,Petr,Petrov,21
